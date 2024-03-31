@@ -16,7 +16,7 @@ Antes de executar este projeto, certifique-se de ter instalado:
 - MySQL
 
 ## Como Rodar o Projeto?
-0. ** Com o MySQL instalado, restaure o banco de dados contido nesse repositório
+0. Com o MySQL instalado, restaure o banco de dados contido nesse repositório
     ```bash
     API-fastify-task/src/database/mytasks.sql
    
