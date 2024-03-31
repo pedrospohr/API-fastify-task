@@ -1,0 +1,15 @@
+{
+  "name": "API-fastify",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "@fastify/mysql": "^4.2.0",
+    "@fastify/swagger": "^8.14.0",
+    "fastify": "^4.26.2"
+  },
+  "devDependencies": {
+    "nodemon": "^3.1.0"
+  }
+}
